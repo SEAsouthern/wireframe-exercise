@@ -1,0 +1,29 @@
+.header {
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+img {
+  float
+}
+
+p {
+  float: right
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  padding: 10px;
+  text-align: center;
+}
